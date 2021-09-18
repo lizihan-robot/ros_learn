@@ -1,0 +1,4 @@
+float64 acc1
+float64 acc2
+---
+bool status
